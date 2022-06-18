@@ -1,6 +1,5 @@
 # Python CoffeeMachine<br>
 This repository is for learning purposes only.
-
 ## Description<br>
 As a beginner in python language and in coding in generall you might don't understand completely what makes the difference between a nice code in one file and OOP files which are processed by main file at the end. Feel free to look at the code and believe: "Practice makes perfect!".
 ## Visualisation<br>
